@@ -256,7 +256,7 @@ img {
   }
 
   .search {
-    width: 100%;
+    width: 50%;
     margin-bottom: 12px;
   }
 
@@ -338,8 +338,8 @@ img {
 
   .highlights-box1,
   .highlights-box2 {
-    width: 70%;
-    margin: -40px auto 10px;
+    width: 60%;
+    margin: -110px 10px 10px;
   }
 }
 @media (min-width: 481px) and (max-width: 768px) {
@@ -431,8 +431,8 @@ img {
 
   .highlights-box1,
   .highlights-box2 {
-    width: 60%;
-    margin: -60px auto 10px;
+    width: 45%;
+    margin: -60px 10px 10px;
   }
 
   .section-image {
